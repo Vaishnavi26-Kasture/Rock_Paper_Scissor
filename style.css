@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  background-color: #1a148e;
+  color: aliceblue;
+  height: 5rem;
+  line-height: 5rem;
+}
