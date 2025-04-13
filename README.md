@@ -22,7 +22,7 @@ This is a simple web-based **Rock Paper Scissors** game built using HTML, CSS, a
 
 ## 📷 Screenshots
 
-<a href="screenshot.png"> Image </a>
+<a href="screenshot.png">  </a>
 
 
 
