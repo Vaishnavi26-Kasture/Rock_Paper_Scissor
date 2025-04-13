@@ -22,7 +22,7 @@ This is a simple web-based **Rock Paper Scissors** game built using HTML, CSS, a
 
 ## 📷 Screenshots
 
-![Screenshot]https://github.com/Vaishnavi26-Kasture/Rock_Paper_Scissor/blob/main/screenshot.png?raw=true
+https://github.com/Vaishnavi26-Kasture/Rock_Paper_Scissor/blob/main/screenshot.png?raw=true
 
 
 
