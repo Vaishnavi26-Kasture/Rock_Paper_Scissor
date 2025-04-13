@@ -29,6 +29,13 @@ This is a simple web-based **Rock Paper Scissors** game built using HTML, CSS, a
 ![Screenshot(13).png](https://github.com/Vaishnavi26-Kasture/Rock_Paper_Scissor/blob/main/Screenshot%20(13).png?raw=true)
 
 
+## 🚀 How to Play
+1. Click on either Rock, Paper, or Scissors.
+2. The computer will make its choice.
+3. The result will be displayed with updated scores.
+4. Keep playing and try to beat the computer!
+
+
 
 
 
